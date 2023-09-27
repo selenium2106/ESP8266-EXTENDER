@@ -23,3 +23,4 @@ y me ha llegado a durar casi 38 horas, algo que ami me dejo sorprendido la prime
 en cuanto a la compilación, hay un detalle, este codigo funciona con la versión 3.0.0 de las librerias de esp8266,
 no he podido adaptarlo a las nuevas versiones, también pueden grabarlo en su modulo con el archivo binario que deje 
 en el archivo. espero que les sea de utilidad ;)
+![Screenshot_20230927-152557_Chrome](https://github.com/selenium2106/ESP8266-EXTENDER/assets/131538899/08bf62e2-7f08-4e00-819b-1be9de0902e8)
