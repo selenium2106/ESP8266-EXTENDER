@@ -1,6 +1,6 @@
 # ESP8266-EXTENDER
 Este es un proyecto que hice en mi tiempo de ocio 
-para el modulo ESP01s,puede ser usado para probarlo o para proyectos de IoT,me he basado en otros proyectos
+para el modulo ESP01s, puede ser usado para probarlo o para proyectos de IoT, me he basado en otros proyectos
 para hacer mejoras e implementarlas en el mio. dichas mejoras son:
 
 • incremento en la velocidad de transmisión y recepción, 
